@@ -1,0 +1,57 @@
+[class*=sidebar-dark-] {
+    background-image: linear-gradient( #3254a5, #173993);
+    background-color: #021948;
+    background-size: 100% 100%;
+}
+
+element.style {
+    height: 2000px;
+}
+
+.card-primary.card-outline {
+    border-width: 15px;
+    border-radius: 20px;
+    border-style: solid;
+    border-image: linear-gradient(189deg, rgb(232 241 246), rgb(186 229 249)) 1;
+}
+
+b, strong {
+    font-weight: bold;
+    color: #0089ff;
+}
+
+.h6, h6 {
+    font-size: 1rem;
+    color: #0774d1;
+}
+
+.login-page, .register-page {
+    background-image: url("SIRN_BG_ArteTop-300.png"), 
+                        url("SIRN_BG_FINAL.png");
+    background-repeat: repeat-x, repeat;
+    background-size: 100% 20px, 100% 100%;
+    background-position: top;
+}
+
+.navbar-white {
+    background-color: #5d7ec1;
+    color: #09213d;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.content-header {
+    background-image:url("Cor_BG.png");
+}
+
+.content-wrapper {
+    background-image:url("Cor_BG.png");
+    background-repeat: repeat;
+    background-size: 100% 100%;
+}
+
+.small-box {
+    box-shadow: 0 10px 10px #00004d;
+}

@@ -1,0 +1,58 @@
+[class*=sidebar-dark-] {
+    background-image: linear-gradient( #3254a5, #173993);
+    background-color: #021948;
+    background-size: 100% 100%;
+}
+
+element.style {
+    height: 2000px;
+}
+
+.card-primary.card-outline {
+    border-width: 15px;
+    border-radius: 20px;
+    border-style: solid;
+    -o-border-image: linear-gradient(189deg, rgb(232 241 246), rgb(186 229 249)) 1;
+       border-image: linear-gradient(189deg, rgb(232 241 246), rgb(186 229 249)) 1;
+}
+
+b, strong {
+    font-weight: bold;
+    color: #0089ff;
+}
+
+.h6, h6 {
+    font-size: 1rem;
+    color: #0774d1;
+}
+
+.login-page, .register-page {
+    background-image: url(/images/SIRN_BG_ArteTop-300.png?cfea79f58d837f97be97af42d91363ee), 
+                        url(/images/SIRN_BG_FINAL.png?34878b7385a03984ef44f4b2cc8f2711);
+    background-repeat: repeat-x, repeat;
+    background-size: 100% 20px, 100% 100%;
+    background-position: top;
+}
+
+.navbar-white {
+    background-color: #5d7ec1;
+    color: #09213d;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.content-header {
+    background-image:url(/images/Cor_BG.png?727938d4e8c65c98ca68323e39909917);
+}
+
+.content-wrapper {
+    background-image:url(/images/Cor_BG.png?727938d4e8c65c98ca68323e39909917);
+    background-repeat: repeat;
+    background-size: 100% 100%;
+}
+
+.small-box {
+    box-shadow: 0 10px 10px #00004d;
+}
